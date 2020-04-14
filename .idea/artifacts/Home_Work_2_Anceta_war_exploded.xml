@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Home Work 2 Anceta:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Home_Work_2_Anceta_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Home Work 2 Anceta/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Home Work 2 Anceta" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
